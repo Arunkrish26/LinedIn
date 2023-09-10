@@ -818,10 +818,10 @@ h3 {
     padding: 0;
   }
 
-  /* .search-box input {
-    width: 0;
-    padding: 0;
-  } */
+ .navbar{
+   padding:10px 40px;
+ }
+  
 
   .hamburger {
     display: block;
